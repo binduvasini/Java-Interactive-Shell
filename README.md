@@ -7,9 +7,9 @@ For example, type the following and hit return. You will see the result immediat
 
 
 
->    > System.out.println("Hi");
-
->    Hi
-
->    ^D
+	>System.out.println("Hi");
+	
+	Hi
+	
+	^D
 
