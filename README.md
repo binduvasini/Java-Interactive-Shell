@@ -6,11 +6,10 @@ This project acts as an interactive "shell" tool that mimics the behavior of the
 For example, type the following and hit return. You will see the result immediately.
 
 
-$
-> System.out.println("Hi");
 
-Hi
+>    > System.out.println("Hi");
 
-^D
+>    Hi
 
-$
+>    ^D
+
